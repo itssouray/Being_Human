@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Being_Human/static/css/main.1a72ba41.css",
+    "main.js": "/Being_Human/static/js/main.77dcb33d.js",
+    "static/js/787.af3ee03b.chunk.js": "/Being_Human/static/js/787.af3ee03b.chunk.js",
+    "static/media/Pexels Videos 2759477.mp4": "/Being_Human/static/media/Pexels Videos 2759477.18ca85400ead6fb8beb0.mp4",
+    "static/media/robo-wunderkind-hLvQ4-QEBAE-unsplash.jpg": "/Being_Human/static/media/robo-wunderkind-hLvQ4-QEBAE-unsplash.ace8687bb1f195aab59b.jpg",
+    "static/media/xiaole-tao-Fo-HQUlRGkU-unsplash.jpg": "/Being_Human/static/media/xiaole-tao-Fo-HQUlRGkU-unsplash.00fcad3a57675b8d4cdd.jpg",
+    "static/media/shubham-dhage-R5A_YlcSJwA-unsplash.jpg": "/Being_Human/static/media/shubham-dhage-R5A_YlcSJwA-unsplash.fd1c54f86a20849695e5.jpg",
+    "static/media/kobu-agency-67L18R4tW_w-unsplash.jpg": "/Being_Human/static/media/kobu-agency-67L18R4tW_w-unsplash.da6d5600d73b15136c38.jpg",
+    "index.html": "/Being_Human/index.html",
+    "main.1a72ba41.css.map": "/Being_Human/static/css/main.1a72ba41.css.map",
+    "main.77dcb33d.js.map": "/Being_Human/static/js/main.77dcb33d.js.map",
+    "787.af3ee03b.chunk.js.map": "/Being_Human/static/js/787.af3ee03b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1a72ba41.css",
+    "static/js/main.77dcb33d.js"
+  ]
+}
